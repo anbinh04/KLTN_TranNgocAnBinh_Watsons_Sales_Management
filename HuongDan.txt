@@ -1,0 +1,27 @@
+Trường Đại học Tài chính - Marketing 
+Đồ án Khóa luận tốt nghiệp
+Đề tài: Xây dựng ứng dụng Winapp quản lý bán hàng tại hệ thống Watsons
+Giảng viên hướng dẫn: ThS. Huỳnh Ngọc Thành Trung
+Sinh viên thực hiện: Trần Ngọc An Bình - 2221004145
+Trong bài nộp gồm:
+1. Báo cáo 
+- File Báo cáo: 
+2221004145_TranNgocAnBinh_BaoCao.docx
+2221004145_TranNgocAnBinh_BaoCao.pdf
+2. CSDL
+- TranNgocAnBinh_Watsons.bak
+- TranNgocAnBinh_DTB_Watsons.sql
+- TranNgocAnBinh_Insert_Watsons.sql
+3. Chương trình
+- File Chương trình: Watsons
+4. Tập tin hướng dẫn
+
+------------------Hướng dẫn chạy bài đồ án----------------------
+- Kết nối CSDL bằng SQL và chạy phần mềm
+Bước 1: Mở  SQL và chọn Database -> Restore -> file TranNgocAnBinh_Watsons.bak 
+Bước 2: Đăng nhập vào phần mềm với tên tài khoản và mật khẩu sau:
+Tên tài khoản	Mật khẩu  Quyền
+admin	123456      Quản lý
+thukho	123456      Thủ kho
+ketoan 	123456      Kế toán
+form Quản lý tài khoản (tạo được tài khoản nhân viên sau khi mở ca)
