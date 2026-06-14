@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Forms\Accounting\CashPaymentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Accounting\CashReceiptForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Accounting\ChartOfAccountsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Accounting\Dialogs\CloseShiftDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Accounting\Dialogs\OpenShiftDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Accounting\Dialogs\ShiftDetailDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Accounting\ShiftManagementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\AccountManagementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Auth\ChangePasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Auth\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Dashboards\AccountingDashboardForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Dashboards\AdminDashboardForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Dashboards\EmployeeDashboardForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Dashboards\WarehouseDashboardForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Master\BrandsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Master\CategoriesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Master\CustomersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Master\EmployeesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Master\ProductsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Master\SuppliersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Master\UnitsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Purchase\PurchaseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Reports\FinancialReportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Reports\InventoryReportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Reports\SalesReportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Sales\SalesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
